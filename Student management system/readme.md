@@ -144,4 +144,14 @@ Demonstrates real DSA concepts
 
 File handling for data persistence
 
+⚠️ Limitations
+
+Console-based UI
+
+Windows-only compatibility
+
+No database integration
+
+Fixed stack size
+
 Beginner-friendly implementation
