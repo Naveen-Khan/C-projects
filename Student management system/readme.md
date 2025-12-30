@@ -134,4 +134,14 @@ This makes the system **safe and user-friendly**.
 ⚠️ This project is Windows-based due to windows.h
 
 
-6. 
+📈 Advantages
+
+Simple and easy to use
+
+Efficient undo functionality
+
+Demonstrates real DSA concepts
+
+File handling for data persistence
+
+Beginner-friendly implementation
