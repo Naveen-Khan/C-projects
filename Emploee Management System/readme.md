@@ -43,4 +43,10 @@ Employee records are stored in a **global array** of structures.
 1. Clone the repository:
    ```bash
    git clone https://github.com/your-username/employee-management-system.git
+     ```
+Open the project folder in VS Code
 
+Compile the program:
+   ```bash
+   g++ main.cpp -o ems
+  ```
